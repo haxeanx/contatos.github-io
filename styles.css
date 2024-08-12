@@ -186,12 +186,13 @@ form {
 label {
     position: relative;
     left: 25%;
-    font-weight: bold;
+    width: 25% 
+
   }
 input, textarea {
     padding: 10px;
     margin-bottom: 10px;
-    width: 800px;
+    width: 600px;
     position: relative;
     left: 7%;
   }
